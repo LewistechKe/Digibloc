@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Digibloc
-- 👀 I’m interested in Front-End Web Development and HTML Email Development.
-- 🌱 I’m currently learning SalesForce and Node JS 
+- 👀 I’m interested in FullStack Web Development and HTML Email Development.
+- 🌱 I’m currently proefficient in MERN STACK
+- CurrentlyLearning SalesForce
 - 💞️ I’m looking to collaborate on any kind of cool projects you have.
 - 📫 Wanna reach me??  Email: digibloc1@gmail.com
 
