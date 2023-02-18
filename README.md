@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Digibloc
 - 👀 I’m interested in FullStack Web Development and HTML Email Development.
-- 🌱 I’m currently proefficient in MERN STACK
+- 🌱 I’m currently proefficient in MERN STACK and PHP
 - CurrentlyLearning SalesForce
 - 💞️ I’m looking to collaborate on any kind of cool projects you have.
 - 📫 Wanna reach me??  Email: digibloc1@gmail.com
